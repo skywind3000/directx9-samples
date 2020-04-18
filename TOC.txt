@@ -1,0 +1,29 @@
+Brief Table of Contents
+
+    Introduction
+    Part I Mathematical Prerequisites
+        Chapter 1 Vector Algebra
+        Chapter 2 Matrix Algebra
+        Chapter 3 Transformations; Planes
+    Part II Direct3D Foundations
+        Chapter 4 Direct3D Initialization
+        Chapter 5 Timing; Direct Input; Animation and Sprites
+        Chapter 6 The Rendering Pipeline
+        Chapter 7 Drawing in Direct3D
+        Chapter 8 Color
+        Chapter 9 Lighting
+        Chapter 10 Texturing
+        Chapter 11 Blending
+        Chapter 12 Stenciling
+    Part III Applied Direct3D and the D3DX Library
+        Chapter 13 Meshes
+        Chapter 14 Mesh Hierarchy Animation Part I: Rigid Meshes
+        Chapter 15 Mesh Hierarchy Animation Part II: Skinned Meshes
+        Chapter 16 Terrain Rendering Part I
+        Chapter 17 Terrain Rendering Part II
+        Chapter 18 Particle Systems
+        Chapter 19 Picking
+        Chapter 20 Advanced Texturing Part I
+        Chapter 21 Advanced Texturing Part II
+    Appendix A Introduction to Windows Programming
+    Appendix B High Level Shader Language Reference
